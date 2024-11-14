@@ -12,5 +12,7 @@ namespace Database
         public string Nimi { get; set; }
         public int Kogus { get; set; }
         public double Hind { get; set; }
+
+        public string Pilt { get; set; }
     }
 }
